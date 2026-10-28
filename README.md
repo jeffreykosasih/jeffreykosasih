@@ -1,14 +1,17 @@
 # Jeffrey Ko
 
-UX/UI designer in Melbourne. I design digital products that are easy to use and a pleasure to come back to.
+Melbourne-based. I design digital products, build them, and analyse the work they support.
 
-**Portfolio:** [jeffreyko.com](https://www.jeffreyko.com)
+- **UX/UI design:** [jeffreyko.com](https://www.jeffreyko.com)
+- **Front-end:** [Port Jeffrey](https://portjeffrey.vercel.app), a 3D portfolio island built with Three.js
+- **Business analysis:** [baport](https://github.com/jeffreykosasih/baport), case studies in process mapping, requirements and business cases
 
 ## Selected work
 
-- [Sigma](https://www.jeffreyko.com/pj08) — spend before you spend it
-- [Peter Parking](https://www.jeffreyko.com/pj07) — one app for every meter
-- [Port Jeffrey](https://portjeffrey.vercel.app) — 3D portfolio island
+- [Sigma](https://www.jeffreyko.com/pj/sigma) — spend before you spend it
+- [Peter Parking](https://www.jeffreyko.com/pj/peter-parking) — one app for every meter
+- [iDriver](https://www.jeffreyko.com/pj/idriver) — newspaper delivery, two steps from login to route
+- [Muscle Memory](https://musclememory-jeffrey-kos-projects.vercel.app) — minimal workout list app
 - [Katsu Seiba](https://katsuseiba.vercel.app) — restaurant site concept
 
 ## Elsewhere
