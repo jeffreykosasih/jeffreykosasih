@@ -4,7 +4,7 @@ Melbourne-based. I design digital products, build them, and analyse the work the
 
 - **UX/UI design:** [jeffreyko.com](https://www.jeffreyko.com)
 - **Front-end:** [Port Jeffrey](https://portjeffrey.vercel.app), a 3D portfolio island built with Three.js
-- **Business analysis:** [baport](https://github.com/jeffreykosasih/baport), case studies in process mapping, requirements and business cases
+- **Business analysis:** [jk_ba_port](https://github.com/jeffreykosasih/jk_ba_port), case studies in process mapping, requirements and business cases
 
 ## Selected work
 
